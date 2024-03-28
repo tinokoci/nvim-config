@@ -45,6 +45,8 @@ vim.opt.inccommand = 'split'
 vim.opt.cursorline = true -- highlights the line number you're currently on
 vim.opt.scrolloff = 10 -- minimal number of lines above and below cursor
 
+vim.g.netrw_bufsettings = 'noma nomod nu rnu nobl nowrap ro'
+
 -- [[ Basic Keymaps ]]
 --  See `:help vim.keymap.set()`
 
