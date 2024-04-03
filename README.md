@@ -25,6 +25,7 @@ If you are experiencing issues, please make sure you have the latest versions.
 > [Backup](#FAQ) your previous configuration (if any exists)
 
 External Requirements:
+- Requires `xclip` for yanking to system clipboard.
 - Basic utils: `git`, `make`, `unzip`, C Compiler (`gcc`)
 - [ripgrep](https://github.com/BurntSushi/ripgrep#installation)
 - A [Nerd Font](https://www.nerdfonts.com/): optional, provides various icons
