@@ -4,6 +4,8 @@ Kickstart Guide:
   :checkhealth
 --]]
 
+vim.api.nvim_set_var('netrw_sort_by', 'exten')
+
 vim.g.mapleader = ' '
 vim.g.maplocalleader = ' '
 vim.g.have_nerd_font = false
