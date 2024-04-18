@@ -49,6 +49,7 @@ vim.opt.scrolloff = 10 -- minimal number of lines above and below cursor
 
 -- Enable line numbers in netrw
 vim.g.netrw_bufsettings = 'noma nomod nu rnu nobl nowrap ro'
+vim.g.netrw_banner = 0
 
 -- [[ Basic Keymaps ]]
 --  See `:help vim.keymap.set()`
