@@ -4,7 +4,7 @@ Kickstart Guide:
   :checkhealth
 --]]
 
-vim.api.nvim_set_var('netrw_sort_by', 'exten')
+--vim.api.nvim_set_var('netrw_sort_by', 'exten')
 
 vim.g.mapleader = ' '
 vim.g.maplocalleader = ' '
